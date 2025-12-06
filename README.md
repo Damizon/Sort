@@ -92,7 +92,9 @@ Your executable will appear in:
 ```
 dist/Sort.exe
 ```
+## ⚡ One-Click Build (build.bat)
 
+If you prefer building the executable with a single click, the project includes:
 ---
 
 ## 📂 Example Workflow
